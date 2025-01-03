@@ -2,7 +2,6 @@
 <loadFolders>
 	<v1.5>
 		<li IfModActive="shauaputa.lewdtrader">Lewd Trader</li>
-		<li IfModActive="rim.job.world.pe">RJW</li>
 		<li ifModActive="ASMR.RJW.RaceSupport">Race Support</li>
 		<li>/</li>
 	</v1.5>
