@@ -16,7 +16,7 @@
 	<loadAfter>
 		<li>rim.job.world</li>
 		<li>shauaputa.lewdtrader</li>
-		<li>Abraxas.RJW.RaceSupport</li>
+		<li>ASMR.RJW.RaceSupport</li>
 	</loadAfter>
 	<loadBefore>
 		<li>rim.job.world.pe</li>
