@@ -13,19 +13,15 @@ namespace Lewd_Code
     {
         private static bool HasGenitalPartProp(Pawn pawn, string partProp)
         {
-            List<Hediff> genitals = pawn.GetGenitalsList();
-            if (genitals.NullOrEmpty())
-            {
-                // no genitals, no knot
-                return false;
-            }
-            foreach (Hediff genital in genitals)
-            {
-                HediffDef_SexPart partDef = genital.sourceHediffDef as HediffDef_SexPart;
+            var genitals = pawn.GetGenitalsList().OfType<ISexPartHediff>();
 
-                if (!partDef.partTags.NullOrEmpty())
+            foreach (var genital in genitals)
+            {
+                HediffDef_SexPart def = genital.Def;
+
+                if (!def.partTags.NullOrEmpty())
                 {
-                    if (partDef.partTags.Contains(partProp))
+                    if (def.partTags.Contains(partProp))
                     {
                         return true;
                     }
