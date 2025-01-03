@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dino Like -->
+
+  <DinoPenis.label>dinosaur penis</DinoPenis.label>
+  <DinoPenis.labelNoun>a dinosaur's penis</DinoPenis.labelNoun>
+  <DinoPenis.description>A penis that is very wide, but not very tall. Its flatened shape is used to spread apart the orifice while the semen comes from the cloaca at the base of the penis.</DinoPenis.description>
+
+  <DinoVagina.label>dinosaur vagina</DinoVagina.label>
+  <DinoVagina.labelNoun>a dinosaur's vagina</DinoVagina.labelNoun>
+  <DinoVagina.description>A vagina with a tough hide on the outside.</DinoVagina.description>
+
+  <DinoAnus.label>dinosaur anus</DinoAnus.label>
+  <DinoAnus.labelNoun>a dinosaur's anus</DinoAnus.labelNoun>
+  <DinoAnus.description>An anus with a tough hide on the outside.</DinoAnus.description>
+
+
+</LanguageData>

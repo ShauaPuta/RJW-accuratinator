@@ -1,0 +1,11 @@
+humanlike
+equine
+dragon
+canine
+feline
+bovine
+cervine
+suine
+elephant
+orc
+dinosaur

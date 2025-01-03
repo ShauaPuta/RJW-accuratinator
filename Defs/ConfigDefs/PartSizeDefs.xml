@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	
+<Defs>
+	<rjw.PartSizeConfigDef ParentName="BaseOrificeSizes">
+		<defName>SlightlyLongerPartSize</defName>
+		<label>slightly longer, but same girth</label>
+		<lengths>
+			<li>5.0</li>
+			<li>9.0</li>
+			<li>12.0</li>
+			<li>18.0</li>
+			<li>24.0</li>
+			<li>32.0</li>
+			<!-- just 2 cm larger than average -->
+			<!-- a dog penis kinda averages to human size, even tho dogs are smalller in body size -->
+		</lengths>
+	</rjw.PartSizeConfigDef>
+	
+	<rjw.PartSizeConfigDef ParentName="BaseOrificeSizes" Name="AccLongPartSize">
+		<defName>LongPartSize</defName>
+		<label>longer, but same girth</label>
+		<lengths>
+			<li>7.0</li>
+			<!-- from 7cm to 10cm is micro -->
+			<li>10.0</li>
+			<!-- from 10cm to 16cm is small -->
+			<li>16.0</li>
+			<!-- from 16 to 23 is average -->
+			<li>23.0</li>
+			<!-- from 23 to 28 is large -->
+			<li>28.0</li>
+			<!-- anything above 28 is huge... then you have a log in your pants -->
+			<li>36.0</li>
+			<!-- a pony has on average ~30cm, a horse averages on ~50cm, while a stallion can go all the way to ~70cm. -->
+			<!-- a vanilla horse has body size of 2.4 -->
+			<!-- so the three sizes can be rounded up to about 10-20-30 -->
+			<!-- a horse penis scaled to the size of a human, is about 5cm longer -->
+		</lengths>
+	</rjw.PartSizeConfigDef>
+		
+	<rjw.PartSizeConfigDef ParentName="BaseOrificeSizes">
+		<defName>VeryLongPartSize</defName>
+		<label>much longer, but kinda average girth</label>
+		<lengths>
+			<li>8.0</li>
+			<!-- from 8cm to 12cm is micro -->
+			<li>12.0</li>					
+			<!-- from 12cm to 20cm is small -->
+			<li>20.0</li>
+			<!-- from 20 to 30 is average -->
+			<li>30.0</li>					
+			<!-- from 30 to 40 is large -->
+			<li>40.0</li>
+			<!-- anything above 40 is huge... then you have a log in your pants -->
+			<li>45.0</li>
+			<!-- according to google, an elephant dick can reach from 60cm to 180cm on the larger sizes -->
+			<!-- a vanilla elephant has size 4 -->
+			<!-- it averages to about 10cm above human standards -->					
+			<!-- bigger differences are on the larger sizes -->
+			<!-- it has a girth of about 40cm, which averages to about human sizes when scaled -->
+		</lengths>
+	</rjw.PartSizeConfigDef>
+
+	<rjw.PartSizeConfigDef ParentName="AccLongPartSize" Name="AccBigPartSize">
+		<defName>BigPartSize</defName>
+		<label>longer and girthier</label>
+		<!-- dragon dicks inherit a lot of canine features in art, like the shape and knot -->
+		<!-- dogs have the same average penis size of a human penis, with minor deviation based on the dog breed-->
+		<!-- a large dog would scale nicely imo to a dragon, since even having a penis the same size as a human, dog's body is still smaller -->
+		<!-- a thrumbo has body size of 4 -->
+		<!-- a large rimworld dog, a wolf, has a body size of 0.85 -->
+		<!-- in the end, dragon dicks are just horse sized dog dicks -->
+		<girths Inherit="false">
+			<li>8.0</li>
+			<li>12.0</li>
+			<li>16.0</li>
+			<!-- from 16 to 20 is average -->
+			<li>20.0</li>
+			<li>25.0</li>
+			<li>30.0</li>
+			<!-- a great dane's average girth is 15 -->
+			<!-- pp is larger and thicker than average, but girth still does not scale as much as lenght -->
+		</girths>
+	</rjw.PartSizeConfigDef>
+	
+	<rjw.PartSizeConfigDef ParentName="BaseGenitalSizes" Name="AccThinPartSize">
+		<defName>ThinPartSize</defName>
+		<label>average length, but a lot thinner</label>
+		<!-- a deer penis is about 22cm long. the penis-to-body ratio of raccoons are similar -->
+		<!-- a vanilla deer size is 1.2 -->
+		<!-- pp lenght averages to human sizes -->
+		<girths Inherit="false">
+			<li>5.0</li>
+			<li>10.0</li>
+			<li>13.0</li>
+			<!-- 14.0 is average -->
+			<li>16.0</li>
+			<li>19.0</li>
+			<li>23.0</li>
+		</girths>
+	</rjw.PartSizeConfigDef>
+	
+	<rjw.PartSizeConfigDef ParentName="BaseGenitalSizes">
+		<defName>ThickPartSize</defName>
+		<label>average length, but thicker</label>
+		<!-- a deer penis is about 22cm long. the penis-to-body ratio of raccoons are similar -->
+		<!-- a vanilla deer size is 1.2 -->
+		<!-- pp lenght averages to human sizes -->
+		<girths Inherit="false">
+			<li>2.0</li>
+			<li>5.0</li>
+			<li>8.0</li>
+			<!-- 8.0 is average -->
+			<li>10.0</li>
+			<li>12.0</li>
+			<li>14.0</li>
+			<!-- a deer penis has about 7cm of girth -->
+			<!-- average size but thin. basically a pencil -->
+		</girths>
+	</rjw.PartSizeConfigDef>
+	
+	<rjw.PartSizeConfigDef ParentName="AccThinPartSize">
+		<defName>SmallPartSize</defName>
+		<label>a small and thin part</label>
+		<lengths Inherit="false">
+			<li>2.0</li>
+			<li>3.0</li>
+			<li>4.0</li>
+			<!-- 4.0 is average -->
+			<li>6.0</li>
+			<li>8.0</li>
+			<li>12.0</li>
+			<!-- a rat's average penis is ~8mm long. -->
+			<!-- a vanilla rat size is 0.2 -->
+			<!-- rule of three makes a human-sized rat have a pinky-sized penis. F -->
+		</lengths>
+		<!-- google has a great image of a erect rat dick with a ruler near it. it has ~0.5cm of diameter. so about 1.5cm of girth -->
+		<!-- a human sized rat averages to a deer's girth -->
+		<!-- still a pinky. F -->
+	</rjw.PartSizeConfigDef>
+
+	<rjw.PartSizeConfigDef>	
+		<defName>NoExternalPart</defName>
+		<label>internal penises, like cloacas</label>
+		<bodysizescale>false</bodysizescale>
+		<!-- Matches with penis sizes. -->
+		<lengths>
+			<li>2.0</li>
+			<li>5.0</li>
+			<li>8.0</li>
+			<!-- 8.0 is average -->
+			<li>10.0</li>
+			<li>12.0</li>
+			<li>14.0</li>
+			<!-- a cloacal penis is not a penis, its a hole that spews semen -->
+			<!-- two birbs kiss with their cloaca, and that's how they have sex -->
+			<!-- girth is the same as thin penis, for penetration sake maybe -->
+		</lengths>
+		<girths>
+			<li>0.0</li>
+			<li>0.0</li>
+			<li>0.0</li>
+			<!-- 0.0 is average -->
+			<li>0.0</li>
+			<li>0.0</li>
+			<li>0.0</li>
+		</girths>
+	</rjw.PartSizeConfigDef>	
+</Defs>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/rjw.PartSizeConfigDef[@Name="BaseOrificeSizes"]/girths</xpath>
+		<value>
+			<girths>
+				<li>3.0</li>
+				<li>7.0</li>
+				<li>10.0</li>
+				<!-- 12.0 is average -->
+				<li>13.0</li>
+				<li>15.0</li>
+				<li>20.0</li>
+				<!-- values are similar to length, until you go big, then the values are smaller -->
+				<!-- absolute unit of a dick had girth of 17cm -->
+			</girths>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/rjw.PartSizeConfigDef[@Name="BaseGenitalSizes"]/lengths</xpath>
+		<value>
+			<lengths>
+				<li>3.0</li>
+				<!-- from 3cm to 7cm is micro -->
+				<li>7.0</li>
+				<!-- from 7cm to 10cm is small -->
+				<li>10.0</li>
+				<!-- from 10 to 16 is average -->
+				<li>16.0</li>
+				<!-- from 16 to 22 is large -->
+				<li>22.0</li>
+				<!-- anything above 22 is huge... until you have a dick the size of a school ruler -->
+				<li>30.0</li>
+				<!-- a research found on google gave these values -->
+				<!-- smallest = 3cm, average = 12cm, largest = 26cm -->
+				<!-- a micro is anything below 7cm for an adult, meanwhile is very rare to go above 22cm -->
+			</lengths>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[defName="DogPenis" or defName="DogVagina"]</xpath>
+		<value>
+			<sizeProfile>SlightlyLongerPartSize</sizeProfile>		
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[defName="HorsePenis" or defName="HorseVagina"]</xpath>
+		<value>
+			<sizeProfile>LongPartSize</sizeProfile>		
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[defName="DragonPenis" or defName="DragonVagina"]</xpath>
+		<value>
+			<sizeProfile>BigPartSize</sizeProfile>		
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[defName="RaccoonPenis" or defName="NeedlePenis" or defName="NarrowVagina"]</xpath>
+		<value>
+			<sizeProfile>ThinPartSize</sizeProfile>		
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[defName="RodentPenis" or defName="RodentVagina"]</xpath>
+		<value>
+			<sizeProfile>SmallPartSize</sizeProfile>		
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[defName="CloacalPenis"]</xpath>
+		<value>
+			<sizeProfile>NoExternalPart</sizeProfile>		
+		</value>
+	</Operation>
+
+</Patch>

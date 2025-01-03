@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VinePenis.label>vines</VinePenis.label>
+  <VinePenis.labelNoun>A mass of vines</VinePenis.labelNoun>
+  <VinePenis.description>Genetically altered vines capable of reproduction.</VinePenis.description>
+
+
+  <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+  <CactoidPenis.label>cactoid penis</CactoidPenis.label>
+  <CactoidPenis.labelNoun>a cactoid penis</CactoidPenis.labelNoun>
+  <CactoidPenis.description>A rough plant-like penis, with a barbed knot at the base, and a thin and flexible shaft. The head ressembles a large cactus flower bud.</CactoidPenis.description>
+
+  <CactoidVagina.label>cactoid vagina</CactoidVagina.label>
+  <CactoidVagina.labelNoun>a cactoid vagina</CactoidVagina.labelNoun>
+  <CactoidVagina.description>A rough plant-like vagina, with soft thorns lining the inner walls. The thorns grip male genitals during sex.</CactoidVagina.description>
+
+  <CactoidBreasts.label>cactoid breasts</CactoidBreasts.label>
+  <CactoidBreasts.labelNoun>a pair of cactoid breasts</CactoidBreasts.labelNoun>
+  <CactoidBreasts.description>A pair of rough plant-like breasts, with thorns all around it, and flower-like nipples.</CactoidBreasts.description>
+
+  <CactoidAnus.label>cactoid anus</CactoidAnus.label>
+  <CactoidAnus.labelNoun>a cactoid anus</CactoidAnus.labelNoun>
+  <CactoidAnus.description>A rough plant-like anus. No thorns this time.</CactoidAnus.description>
+
+  <TreePenis.label>bark penis</TreePenis.label>
+  <TreePenis.labelNoun>a wooden penis</TreePenis.labelNoun>
+  <TreePenis.description>A naturally grown wooden penis. The testicles are covered in a hard shell, while a wooden sheath protects the phalus. When erect, the large shaft extends, while the barbed head flares, somewhat ressembling a horse penis.</TreePenis.description>
+
+  <TreeVagina.label>bark vagina</TreeVagina.label>
+  <TreeVagina.labelNoun>a wooden vagina</TreeVagina.labelNoun>
+  <TreeVagina.description>A naturally grown wooden vagina. While the outside looks like bark, the inside is soft.</TreeVagina.description>
+
+  <TreeBreasts.label>bark breasts</TreeBreasts.label>
+  <TreeBreasts.labelNoun>a pair of wooden breasts</TreeBreasts.labelNoun>
+  <TreeBreasts.description>A pair of naturally grown wooden breasts. Hard bark covers the entire outer portion, while leaving the nipples underneat exposed.</TreeBreasts.description>
+
+  <TreeAnus.label>bark anus</TreeAnus.label>
+  <TreeAnus.labelNoun>a wooden anus</TreeAnus.labelNoun>
+  <TreeAnus.description>A naturally grown wooden anus. While the outside looks like bark, the inside is soft.</TreeAnus.description>
+
+  <AntherPenis.label>anther</AntherPenis.label>
+  <AntherPenis.labelNoun>a flower's anther</AntherPenis.labelNoun>
+  <AntherPenis.description>A flower's male reproductive organ. A long and thin filament forms the shaft, while a large pollen-producing head in the tip.</AntherPenis.description>
+
+  <PistilVagina.label>pistil</PistilVagina.label>
+  <PistilVagina.labelNoun>a flower's pistil</PistilVagina.labelNoun>
+  <PistilVagina.description>A flower's female reproductive organ. The sticky entrance is connected to the ovaries via a long tube-like structure.</PistilVagina.description>
+
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Regular privates -->
+
+  <Penis.label>penis</Penis.label>
+  <Penis.labelNoun>a penis</Penis.labelNoun>
+  <Penis.description>A humanlike penis. The entire shaft is covered in skin, which can be pulled back enough to expose the sensitive head at the tip. Lacking a sheath, it just dangles around when not erect.</Penis.description>
+
+  <Vagina.label>vagina</Vagina.label>
+  <Vagina.labelNoun>a vagina</Vagina.labelNoun>
+  <Vagina.description>A humanlike vagina. The larger outer labia covers the smaller inner labia, that in turn protects the vaginal opening and the urethra. The clitoris is hidden inside a hood.</Vagina.description>
+
+
+  <!-- Natural anuses -->
+
+  <Anus.label>anus</Anus.label>
+  <Anus.labelNoun>an anus</Anus.labelNoun>
+  <Anus.description>A humanlike anus. The wrinkled hole is trapped between two fat cheeks. Apparently, only humanlikes have butts like these.</Anus.description>
+
+  <!-- Natural Breasts -->
+
+  <Breasts.label>breasts</Breasts.label>
+  <Breasts.labelNoun>a pair of breasts</Breasts.labelNoun>
+  <Breasts.description>A pair of humanlike breasts. Being an important part of sexual attraction to humanlikes, they keep their fat and round form even when not breastfeeding. Sometimes.</Breasts.description>
+
+
+  <!-- Natural Breasts or rather lack of -->
+
+  <FeaturelessChest.label>featureless chest</FeaturelessChest.label>
+  <FeaturelessChest.labelNoun>a featureless chest</FeaturelessChest.labelNoun>
+  <FeaturelessChest.description>Smooth, featureless chest without nipples where they should be.</FeaturelessChest.description>
+
+
+</LanguageData>

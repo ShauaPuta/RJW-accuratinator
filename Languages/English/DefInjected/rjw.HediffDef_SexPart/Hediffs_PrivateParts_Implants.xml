@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple prosthetic privates -->
+
+  <PegDick.label>peg dick</PegDick.label>
+  <PegDick.labelNoun>a peg dick</PegDick.labelNoun>
+  <PegDick.description>A piece of wood carved in the shape like the user's natural penis. Its barelly better than nothing.</PegDick.description>
+
+  <HydraulicPenis.label>hydraulic penis</HydraulicPenis.label>
+  <HydraulicPenis.labelNoun>a hydraulic penis</HydraulicPenis.labelNoun>
+  <HydraulicPenis.description>A low-tech prosthetic penis. It consists of a hidraulic piston shaped like the owner's original penis, that extends to simulate an erection. The fluid delivery system that happens during orgasm is purely for aesthethics, so this penis is unable to fertilize a partner. Despite simulating all the necessary features of a penis, its cold and hard exterior is somewhat unapealing outside of fetishes and prosthophiles.</HydraulicPenis.description>
+
+  <HydraulicVagina.label>hydraulic vagina</HydraulicVagina.label>
+  <HydraulicVagina.labelNoun>a hydraulic vagina</HydraulicVagina.labelNoun>
+  <HydraulicVagina.description>A low-tech prosthetic vagina. The features, like lips and clitoris, are fully made of metal and are no more than just novelty. The vaginal canal consists of a textured silicone tube, and several hydraulics that can tighten and loosen to simulate the real thing, but the lack of a functioning utherus prevents pregnancy. Despite simulating all the necessary features of a vagina, everything about it feels extremely artificial, more akin to masturbating with a cock sleeve than having sex with a flesh partner.</HydraulicVagina.description>
+
+  <HydraulicAnus.label>hydraulic anus</HydraulicAnus.label>
+  <HydraulicAnus.labelNoun>a hydraulic anus</HydraulicAnus.labelNoun>
+  <HydraulicAnus.description>A low-tech prostethic anus. Both sphincters are simulated using a system of hydraulic pistons, while the rectum is a flexible tube lined with metallic platings. Its very easy to clean and despite being usable for anal sex, its far from being the most confortable.</HydraulicAnus.description>
+
+  <HydraulicBreasts.label>hydraulic breasts</HydraulicBreasts.label>
+  <HydraulicBreasts.labelNoun>a pair of hydraulic breasts</HydraulicBreasts.labelNoun>
+  <HydraulicBreasts.description>A pair of low-tech prostethic breasts. The smaller sizes are made of overlapping metallic plates that can move and bounce very loosely like real breasts. The larger sizes are made of memory foam, with only the nipples being made of metal. Despite looking like breasts, both the metal and memory foam ones are far from feeling like them, usually only having appeal to prosthophiles.</HydraulicBreasts.description>
+
+
+  <!-- Bionic privates -->
+
+  <BionicPenis.label>bionic penis</BionicPenis.label>
+  <BionicPenis.labelNoun>a bionic penis</BionicPenis.labelNoun>
+  <BionicPenis.description>A high-tech prosthetic penis. The shaft is made of a complex system of servos and wiring, covered with parts and pieces that mimic the shape of the user's natural penis. This outer shell is made of a special soft plastic-like material that offers just the right amount of hardness during sex.\nIt uses fine-tuned pressure sensors and a PID controller to analize its lover's contractions, making this penis better than the original despite its exotic look.</BionicPenis.description>
+
+  <BionicVagina.label>bionic vagina</BionicVagina.label>
+  <BionicVagina.labelNoun>a bionic vagina</BionicVagina.labelNoun>
+  <BionicVagina.description>An advanced prosthetic vagina. While dynamic sensibility controler can provide the best hands-on experience, the internal pressure sensors and dynamic fluid control to provide the most enjoyable sensations for the partner as well. Several interchangeable internal textures were made, being easily swapped to better fit your partner's preferences.</BionicVagina.description>
+
+  <BionicAnus.label>bionic anus</BionicAnus.label>
+  <BionicAnus.labelNoun>an bionic anus</BionicAnus.labelNoun>
+  <BionicAnus.description>A high-tech prosthetic anus. Its very stretchy and tear-resistant material, coupled with auto-cleaning and auto-lubrification features, provide the best day to day experience. Perfect for anal sex too!</BionicAnus.description>
+
+  <BionicBreasts.label>bionic breasts</BionicBreasts.label>
+  <BionicBreasts.labelNoun>a bionic breasts</BionicBreasts.labelNoun>
+  <BionicBreasts.description>High-tech prosthetic breasts. The nipples are capable of five times the sensibility of a normal nipple, all controled by a neural stimulus reader.</BionicBreasts.description>
+
+
+  <!-- Archotech -->
+
+  <ArchotechPenis.label>archotech penis</ArchotechPenis.label>
+  <ArchotechPenis.description>An artificial penis built by an archotech. It looks and feels just like the real thing, and although attaches seamlessly to the body, some parts of it have unnatural colors with an exotic glow to them. It is capable to provide the perfect stimulation for every kind of orifice, via electrostimulation, vibrations, or special pheromones, it is unmatched in any sexual situation. It directly connects to the nervous system to greatly enhance the owner's stamina and virility to keep the pleasure going for as long as possible. Its internal workings are a mystery to all human minds.</ArchotechPenis.description>
+
+  <ArchotechVagina.label>archotech vagina</ArchotechVagina.label>
+  <ArchotechVagina.description>An artificial vagina built by an archotech. It looks and feels just like the real thing, with the exception of the unnatural colors and the exotic glow it has internally. Its advanced lubrication, flexibility, heat regulation, in addition to its self-repairing mechanisms allows it to endure any type of insertion while also providing unmatched sexual experiences. It maintains immunity of most known STDs while enabling the birthing process to happen without complications. Its internal workings are a mystery to all human minds.</ArchotechVagina.description>
+
+  <ArchotechAnus.label>archotech anus</ArchotechAnus.label>
+  <ArchotechAnus.description>An artificial anus built by an archotech. It's indistinguishable from a normal anus, with the exception of the unnatural colors and the exotic glow it has internally. Unmatched resistance and self-repairing properties make it almost impossible to destroy. Its internal workings are a mystery to all human minds.</ArchotechAnus.description>
+
+  <ArchotechBreasts.label>archotech breasts</ArchotechBreasts.label>
+  <ArchotechBreasts.description>A pair of artificial breasts built by an archotech. They look and feel like the real thing, seamlessly attaching to the chest. They would pass unnoticed, if it wasn't for the exotic colored nipples that glow in the dark. Their surface is smoother than any natural skin, being lighter than natural breasts, also being are harder to damage than plasteel with self repairing capacities of other archotech bionics. Its internal workings are a mystery to all human minds.</ArchotechBreasts.description>
+
+</LanguageData>

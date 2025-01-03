@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[defName="ElephantPenis" or defName="ElephantVagina" or defName="VinePenis"]</xpath>
+		<value>
+			<sizeProfile>VeryLongPartSize</sizeProfile>		
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[defName="TurtlePenis" or defName="TreePenis" or defName="TreeVagina"]</xpath>
+		<value>
+			<sizeProfile>LongPartSize</sizeProfile>		
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[defName="PigPenis" or defName="PigVagina" or defName="AntherPenis"]</xpath>
+		<value>
+			<sizeProfile>ThinPartSize</sizeProfile>		
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[defName="MarinePenis" or defName="GolemPenis" or defName="OrcPenis" or defName="OrcVagina"]</xpath>
+		<value>
+			<sizeProfile>ThickPartSize</sizeProfile>		
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[defName="DinoPenis" or defName="DinoVagina"]</xpath>
+		<value>
+			<sizeProfile>BigPartSize</sizeProfile>		
+		</value>
+	</Operation>
+
+</Patch>

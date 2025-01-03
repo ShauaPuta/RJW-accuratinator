@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>RimJobWorld Accuratinator</name>
+	<author>Y-Adaptor</author>
+	<url></url>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<packageId>shauaputa.rjwdescriptions</packageId>
+	<modDependencies>
+	<li>
+      <packageId>rim.job.world</packageId>
+	</li>
+	</modDependencies>
+	<loadAfter>
+		<li>rim.job.world</li>
+		<li>shauaputa.lewdtrader</li>
+		<li>Abraxas.RJW.RaceSupport</li>
+	</loadAfter>
+	<loadBefore>
+		<li>rim.job.world.pe</li>
+	</loadBefore>
+	<description>	
+	Tweaks some parts of RJW to be more...accurate, based on my preferences.
+	Features include:
+	-> Genital descriptions changes
+		- changed most of them to be more...descriptive of the part they describe.
+		- made both item and hediff share the same description, just for convenience
+	-> Genital size accuracy changes
+		- changes in the length and girth numbers of the genitals when using the 'extra info' rjw option. Researched by me using google and rjw body size to scale to human pawns
+	-> Quirk changes
+		- new quirks, based off genital features such as loving knots and barbs, aswell as a size queen quirk
+		- changes the 'that's my fetish' thought to be stackable based on the amount of features that triggered it. Also made it last half a day instead of an entire day
+	</description>
+</ModMetaData>

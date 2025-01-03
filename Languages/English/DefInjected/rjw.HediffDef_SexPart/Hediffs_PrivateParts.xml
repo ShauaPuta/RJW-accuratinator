@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Placeholder hediffs for unsupported pawns? -->
+
+  <GenericPenis.label>generic penis</GenericPenis.label>
+  <GenericPenis.labelNoun>a penis</GenericPenis.labelNoun>
+  <GenericPenis.description>A penis with a shaft that's thick at the base, but tappers to a point.</GenericPenis.description>
+
+  <GenericVagina.label>generic vagina</GenericVagina.label>
+  <GenericVagina.labelNoun>a vagina</GenericVagina.labelNoun>
+  <GenericVagina.description>A self-lubrifying hole capable of childbirth.</GenericVagina.description>
+
+  <GenericAnus.label>generic anus</GenericAnus.label>
+  <GenericAnus.labelNoun>an anus</GenericAnus.labelNoun>
+  <GenericAnus.description>A wrinkled hole that's the end of the digestive system.</GenericAnus.description>
+
+  <GenericBreasts.label>generic breasts</GenericBreasts.label>
+  <GenericBreasts.labelNoun>breasts</GenericBreasts.labelNoun>
+  <GenericBreasts.description>A pair of glands capable of producing milk to feed the young.</GenericBreasts.description>
+
+
+</LanguageData>

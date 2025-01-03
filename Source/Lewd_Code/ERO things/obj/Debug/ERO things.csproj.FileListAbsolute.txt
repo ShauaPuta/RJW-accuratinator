@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RJW ero trader\Source\ERO things\ERO things\obj\Debug\ERO things.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RJW ero trader\Assemblies\ERO things.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RJW ero trader\Assemblies\ERO things.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RJW ero trader\Source\ERO things\ERO things\obj\Debug\ERO things.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RJW ero trader\Source\ERO things\ERO things\obj\Debug\ERO things.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RJW accuratinator\Assemblies\Lewd_Code.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RJW accuratinator\Assemblies\Lewd_Code.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RJW accuratinator\Source\Lewd_Code\ERO things\obj\Debug\ERO things.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RJW accuratinator\Source\Lewd_Code\ERO things\obj\Debug\ERO things.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RJW accuratinator\Source\Lewd_Code\ERO things\obj\Debug\Lewd_Code.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RJW accuratinator\Source\Lewd_Code\ERO things\obj\Debug\Lewd_Code.pdb

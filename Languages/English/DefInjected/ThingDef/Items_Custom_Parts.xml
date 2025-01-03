@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dino -->
+
+  <DinoPenis.label>dinosaur penis</DinoPenis.label>
+  <DinoPenis.description>A penis that is very wide, but not very tall. Its flatened shape is used to spread apart the orifice while the semen comes from the cloaca at the base of the penis.</DinoPenis.description>
+
+  <DinoVagina.label>dinosaur vagina</DinoVagina.label>
+  <DinoVagina.description>A egg-laying vagina with a tough hide on the outside.</DinoVagina.description>
+
+  <DinoAnus.label>dinosaur anus</DinoAnus.label>
+  <DinoAnus.description>An anus with a tough hide on the outside.</DinoAnus.description>
+
+
+  <!-- Orc -->
+
+  <OrcPenis.label>orc penis</OrcPenis.label>
+  <OrcPenis.description>A girthy penis with a preputial ring, but otherwise similar to a humanoid penis.</OrcPenis.description>
+
+  <OrcVagina.label>orc vagina</OrcVagina.label>
+  <OrcVagina.description>A humanlike vagina with very large lips.</OrcVagina.description>
+
+  <OrcBreasts.label>orc breasts</OrcBreasts.label>
+  <OrcBreasts.description>A pair of humanlike breasts that sag greatly.</OrcBreasts.description>
+
+  <OrcAnus.label>Orc anus</OrcAnus.label>
+  <OrcAnus.description>An anus that looks like a mix between an humanlike anus and an equine anus.</OrcAnus.description>
+
+
+  <!-- Elf -->
+
+  <ElfPenis.label>elf penis</ElfPenis.label>
+  <ElfPenis.description>A thinner and longer humanlike penis. Is that glitter?</ElfPenis.description>
+
+  <ElfVagina.label>elf vagina</ElfVagina.label>
+  <ElfVagina.description>A tighter humanlike vagina. Tastes like oranges.</ElfVagina.description>
+
+  <ElfAnus.label>elf anus</ElfAnus.label>
+  <ElfAnus.description>A thighter humanlike anus. Smells of flowers.</ElfAnus.description>
+
+  <NecroPenis.label>decayed penis</NecroPenis.label>
+  <NecroPenis.description>A penis that is full of stiches, parts that did not belong and is mostly falling apart. It was obviously salvaged from what was left when it decayed. Somehow it still works.</NecroPenis.description>
+
+  <NecroVagina.label>decayed vagina</NecroVagina.label>
+  <NecroVagina.description>A vagina that was salvaged from what remained after decaying. Its full of stiches, sometimes there's more than one hole to get into. Its insides are as cold as a grave.</NecroVagina.description>
+
+  <NecroAnus.label>decayed anus</NecroAnus.label>
+  <NecroAnus.description>An anus that was salvaged from what was left after decaying. Its insides are as cold as a grave.</NecroAnus.description>
+
+  <NecroBreasts.label>decayed breasts</NecroBreasts.label>
+  <NecroBreasts.description>A pair of breasts that where obviously salvaged from what was left after decaying. There's stiches all around, multiple nipples, extra patches of skin, and some other times, no skin at all. Sometimes there's not even boobs left.</NecroBreasts.description>
+
+  <MonkeyPenis.label>monkey penis</MonkeyPenis.label>
+  <MonkeyPenis.description>A small penis with a rotund head, and no sheath. Somewhat similar to a human's.</MonkeyPenis.description>
+
+  <PigPenis.label>corkscrew penis</PigPenis.label>
+  <PigPenis.description>A long and thin penis. The flesh of one side of the shaft is softer then other side, causing it to have a corckscrew shape when erect. This penis in particular produces a huge amount of semen for its size.</PigPenis.description>
+
+  <BearPenis.label>bear penis</BearPenis.label>
+  <BearPenis.description>A thin penis supported by a bone.</BearPenis.description>
+
+  <TurtlePenis.label>turtle penis</TurtlePenis.label>
+  <TurtlePenis.description>A large penis that telescopically extends from the shaft. The flat head swells up so much that it looks like a toiled plunger when fully flared.</TurtlePenis.description>
+
+  <ElephantPenis.label>elephant penis</ElephantPenis.label>
+  <ElephantPenis.description>A large penis that telescopically extends from the shaft. When erect, it is very flexible and mobile, enough to lightly manipulate things.</ElephantPenis.description>
+
+  <BovinePenis.label>bovine penis</BovinePenis.label>
+  <BovinePenis.description>A very long, but also very thin penis that telescopically extends from the shaft. It has very large testicles.</BovinePenis.description>
+
+  <MarinePenis.label>marine penis</MarinePenis.label>
+  <MarinePenis.description>A penis that is girthy at the base, but tapers to a very thin point.</MarinePenis.description>
+
+  <CactoidPenis.label>a cactoid penis</CactoidPenis.label>
+  <CactoidPenis.description>A rough plant-like penis, with a barbed knot at the base, and a thin and flexible shaft. The head ressembles a large cactus flower bud.</CactoidPenis.description>
+
+  <CactoidVagina.label>cactoid vagina</CactoidVagina.label>
+  <CactoidVagina.description>A rough plant-like vagina, with soft thorns lining the inner walls. The thorns grip male genitals during sex.</CactoidVagina.description>
+
+  <CactoidAnus.label>cactoid anus</CactoidAnus.label>
+  <CactoidAnus.description>A rough plant-like anus. No thorns this time.</CactoidAnus.description>
+
+  <CactoidBreasts.label>cactoid breasts</CactoidBreasts.label>
+  <CactoidBreasts.description>A pair of rough plant-like breasts, with thorns all around it, and flower-like nipples.</CactoidBreasts.description>
+
+  <TreePenis.label>a bark penis</TreePenis.label>
+  <TreePenis.description>A naturally grown wooden penis. The testicles are covered in a hard shell, while a wooden sheath protects the phalus. When erect, the large shaft extends, while the barbed head flares, somewhat ressembling a horse penis.</TreePenis.description>
+
+  <TreeVagina.label>a bark vagina</TreeVagina.label>
+  <TreeVagina.description>A naturally grown wooden vagina. While the outside looks like bark, the inside is soft and leaf-like.</TreeVagina.description>
+
+  <TreeAnus.label>a bark anus</TreeAnus.label>
+  <TreeAnus.description>A naturally grown wooden anus. While the outside looks like bark, the inside is soft.</TreeAnus.description>
+
+  <TreeBreasts.label>bark breasts</TreeBreasts.label>
+  <TreeBreasts.description>A pair of naturally grown wooden breasts. Hard bark covers the entire outer portion, while leaving the nipples underneat exposed.</TreeBreasts.description>
+
+  <GolemPenis.label>a mineral penis</GolemPenis.label>
+  <GolemPenis.description>A hollow shaft made of a hard mineral material, like rock or crystal.</GolemPenis.description>
+
+  <GhoulPenis.label>an irradiated penis</GhoulPenis.label>
+  <GhoulPenis.description>A humanlike penis that glows slightly. It's very hot to the touch.</GhoulPenis.description>
+
+  <GhoulVagina.label>an irradiated vagina</GhoulVagina.label>
+  <GhoulVagina.description>A humanlike vagina that glows slightly. It is unconfotably hot inside.</GhoulVagina.description>
+
+  <GhoulAnus.label>an irradiated anus</GhoulAnus.label>
+  <GhoulAnus.description>An anus that glows slightly. It is unconfotably hot inside.</GhoulAnus.description>
+
+  <GhoulBreasts.label>irradiated breasts</GhoulBreasts.label>
+  <GhoulBreasts.description>A pair of humanlike breasts that glows slightly. They're very hot to the touch.</GhoulBreasts.description>
+
+  <ScaleBreasts.label>scaly breasts</ScaleBreasts.label>
+  <ScaleBreasts.description>A pair of humanlike breasts fully covered in scales, and no nipples.</ScaleBreasts.description>
+
+  <TentaclePenis.label>tentacles</TentaclePenis.label>
+  <TentaclePenis.description>A mass of tentacle-like penises, capable of both restraining and pleasuring.</TentaclePenis.description>
+
+  <VinePenis.label>vines</VinePenis.label>
+  <VinePenis.description>Genetically altered vines capable of reproduction.</VinePenis.description>
+
+  <DemonTentaclesF.label>demon tentacles</DemonTentaclesF.label>
+  <DemonTentaclesF.description>A long and flexible tentacle, capable of laying eggs.</DemonTentaclesF.description>
+
+  <BigRaceBreats.label>breasts</BigRaceBreats.label>
+  <BigRaceBreats.description>a pair of breasts found on larger HumanLikes</BigRaceBreats.description>
+
+  <HorseAnus.label>equine anus</HorseAnus.label>
+  <HorseAnus.description>An anus shaped like a dougnut.</HorseAnus.description>
+
+  <CatAnus.label>feline anus</CatAnus.label>
+  <CatAnus.description>A feline anus.</CatAnus.description>
+
+  <DogAnus.label>canine anus</DogAnus.label>
+  <DogAnus.description>A canine anus.</DogAnus.description>
+
+  <DragonAnus.label>dragon anus</DragonAnus.label>
+  <DragonAnus.description>A rough anus covered in scales on the outside.</DragonAnus.description>
+
+
+  <!-- Flower -->
+
+  <AntherPenis.label>anther</AntherPenis.label>
+  <AntherPenis.description>A flower's male reproductive organ. A long and thin filament, with a large pollen-producing head in the tip.</AntherPenis.description>
+
+  <PistilVagina.label>pistil</PistilVagina.label>
+  <PistilVagina.description>A flower's female reproductive organ. The sticky entrance is connected to the ovaries via a long tube-like structure.</PistilVagina.description>
+
+
+  <!-- Deer -->
+
+  <CervineVagina.label>cervine vagina</CervineVagina.label>
+  <CervineVagina.description>A rather thin vagina.</CervineVagina.description>
+
+  <CervineAnus.label>cervine anus</CervineAnus.label>
+  <CervineAnus.description>A deer's anus.</CervineAnus.description>
+
+
+</LanguageData>

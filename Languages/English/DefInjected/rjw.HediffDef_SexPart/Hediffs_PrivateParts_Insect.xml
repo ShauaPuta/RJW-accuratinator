@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Insect privates -->
+
+  <OvipositorF.label>ovipositor</OvipositorF.label>
+  <OvipositorF.labelNoun>an ovipositor</OvipositorF.labelNoun>
+  <OvipositorF.description>A penis-like segmented structure capable of laying eggs inside a host.</OvipositorF.description>
+
+  <OvipositorM.label>aedeagus</OvipositorM.label>
+  <OvipositorM.labelNoun>an aedeagus</OvipositorM.labelNoun>
+  <OvipositorM.description>The male reproductive organ of an arthropod, very loosely comparable to a penis. Its a very complex structure that varies for each species and may have hooks, claspers, setae along or around the phalus.</OvipositorM.description>
+
+  <InsectAnus.label>insect anus</InsectAnus.label>
+  <InsectAnus.labelNoun>an insect anus</InsectAnus.labelNoun>
+  <InsectAnus.description>An anus thats hard and chitinous on the outside, but soft and slimey on the inside.</InsectAnus.description>
+
+
+</LanguageData>

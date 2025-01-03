@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+	
+	<!--======= pig penis cum production ++ ========-->
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[defName="PigPenis"]</xpath>
+		<value><fluidMultiplier>10.0</fluidMultiplier></value>
+	</Operation>	
+
+</Patch>

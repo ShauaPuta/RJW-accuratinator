@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+	<!-- override Hediff_Implant on peg and hydraulic parts, because body modders love everything, even peg legs -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/rjw.HediffDef_SexPart[@Name="ArtificialPrivatePartLotech" or @Name="ArtificialPrivatePartHitech"]</xpath>
+		<value>
+			<countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+		</value>
+	</Operation>
+
+</Patch>

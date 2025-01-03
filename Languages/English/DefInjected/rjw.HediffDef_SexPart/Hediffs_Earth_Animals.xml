@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MonkeyPenis.label>monkey penis</MonkeyPenis.label>
+  <MonkeyPenis.labelNoun>A monkey's penis</MonkeyPenis.labelNoun>
+  <MonkeyPenis.description>A small penis with a rotund head, and no sheath. Somewhat similar to a human's.</MonkeyPenis.description>
+
+  <PigPenis.label>corkscrew penis</PigPenis.label>
+  <PigPenis.labelNoun>A pig's penis</PigPenis.labelNoun>
+  <PigPenis.description>A long and thin penis. The flesh of one side of the shaft is softer then other side, causing it to have a corckscrew shape when erect. This penis in particular produces a huge amount of semen for its size.</PigPenis.description>
+
+  <BearPenis.label>bear penis</BearPenis.label>
+  <BearPenis.labelNoun>A bears's penis</BearPenis.labelNoun>
+  <BearPenis.description>A thin penis supported by a bone.</BearPenis.description>
+
+  <TurtlePenis.label>turtle penis</TurtlePenis.label>
+  <TurtlePenis.labelNoun>A turtle's penis</TurtlePenis.labelNoun>
+  <TurtlePenis.description>A large penis that telescopically extends from the shaft. The flat head swells up so much that it looks like a toiled plunger when fully flared.</TurtlePenis.description>
+
+  <ElephantPenis.label>elephant penis</ElephantPenis.label>
+  <ElephantPenis.labelNoun>An elephant's penis</ElephantPenis.labelNoun>
+  <ElephantPenis.description>A large penis that telescopically extends from the shaft. When erect, it is very flexible and mobile, enough to lightly manipulate things.</ElephantPenis.description>
+
+  <BovinePenis.label>bovine penis</BovinePenis.label>
+  <BovinePenis.labelNoun>A bovine's penis</BovinePenis.labelNoun>
+  <BovinePenis.description>A very long, but also very thin penis that telescopically extends from the shaft. It has very large testicles.</BovinePenis.description>
+
+  <MarinePenis.label>marine penis</MarinePenis.label>
+  <MarinePenis.labelNoun>A marine mammal penis</MarinePenis.labelNoun>
+  <MarinePenis.description>A penis that is girthy at the base, but tapers to a very thin point.</MarinePenis.description>
+
+
+  <!-- Critter Like -->
+
+  <HorseAnus.label>equine anus</HorseAnus.label>
+  <HorseAnus.labelNoun>an equine's anus</HorseAnus.labelNoun>
+  <HorseAnus.description>A puffy anus, its shaped like a dougnut.</HorseAnus.description>
+
+  <CatAnus.label>feline anus</CatAnus.label>
+  <CatAnus.labelNoun>a feline's anus</CatAnus.labelNoun>
+  <CatAnus.description>A feline anus.</CatAnus.description>
+
+  <DogAnus.label>canine anus</DogAnus.label>
+  <DogAnus.labelNoun>a canine's anus</DogAnus.labelNoun>
+  <DogAnus.description>A canine anus.</DogAnus.description>
+
+  <CervineVagina.label>cervine vagina</CervineVagina.label>
+  <CervineVagina.labelNoun>a deer's vagina</CervineVagina.labelNoun>
+  <CervineVagina.description>A rather thin vagina.</CervineVagina.description>
+
+  <CervineAnus.label>cervine anus</CervineAnus.label>
+  <CervineAnus.labelNoun>a deer's anus</CervineAnus.labelNoun>
+  <CervineAnus.description>An deer's anus.</CervineAnus.description>
+
+
+</LanguageData>
