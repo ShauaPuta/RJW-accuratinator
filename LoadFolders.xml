@@ -2,7 +2,7 @@
 <loadFolders>
 	<v1.5>
 		<li IfModActive="shauaputa.lewdtrader">Lewd Trader</li>
-		<li ifModActive="ASMR.RJW.RaceSupport">Race Support</li>
+		<li IfModActive="ASMR.RJW.RaceSupport">Race Support</li>
 		<li>/</li>
 	</v1.5>
 </loadFolders>
