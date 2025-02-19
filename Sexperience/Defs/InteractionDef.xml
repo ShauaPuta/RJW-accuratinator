@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	
+<Defs>
+	 <InteractionDef>
+		<defName>RJW_LessonSex</defName>
+		<label>sex education</label>
+		<ignoreTimeSinceLastInteraction>True</ignoreTimeSinceLastInteraction>
+		<symbol>Things/Mote/Childcare/Teaching</symbol>
+		<logRulesInitiator>
+		  <include>
+			<li>LessonInteractionHowTo</li>
+			<li>LessonInteractionQuiz</li>
+			<li>LessonInteractionCommonSituations</li>
+			<li>LessonInteractionTeachSubjectTo</li>
+			<li>LessonInteractionStudySubjectWith</li>
+		  </include>
+		  <rulesStrings>
+			<li>article_tool->[creature_part] [genital_part]</li>
+			
+			<li>creature_part->equine</li>
+			<li>creature_part->feline</li>
+			<li>creature_part->canine</li>
+			<li>creature_part->draconic</li>
+			<li>creature_part->cervine</li>
+			<li>creature_part(p=5)->human</li>
+			<li>creature_part->demonic</li>
+			<li>creature_part->tiny</li>
+			<li>creature_part->huge</li>
+			<li>creature_part->prehensile</li>
+			<li>creature_part->tiny</li>
+			<li>creature_part->large</li>
+			<li>creature_part->dripping</li>
+			
+			<li>genital_part->penises</li>
+			<li>genital_part->vaginas</li>
+
+			<li>action->clean</li>
+			<li>action->erogenous zones in</li>
+			<li>action->care for</li>
+			<li>action->lick</li>
+			<li>action->suck</li>
+			<li>action->stroke</li>
+			<li>action->grip</li>
+			<li>action->massage</li>
+			<li>action->arouse</li>
+			<li>action->lube</li>
+			<li>action->use your [bodypart] on</li>
+			
+			<li>bodypart->hands</li>
+			<li>bodypart->tongue</li>
+			<li>bodypart->mouth</li>
+			<li>bodypart->anus</li>
+			<li>bodypart->penis</li>
+			<li>bodypart->vagina</li>
+			<li>bodypart->feet</li>
+			<li>bodypart->tail</li>
+
+			<li>action_gerund->stroking</li>
+			<li>action_gerund->licking</li>
+			<li>action_gerund->gripping</li>
+			<li>action_gerund->sucking</li>
+			<li>action_gerund->massaging</li>
+			<li>action_gerund->lubing</li>
+			<li>action_gerund->oiling</li>
+			
+			
+			<li>subject->orgasm induction</li>
+			<li>subject->sexual techniques</li>
+			<li>subject->blowjob techniques</li>
+			<li>subject->vaginal techniques</li>
+			<li>subject->foreplay techniques</li>
+			<li>subject->anal techniques</li>
+			<li>subject->handjob techniques</li>
+			<li>subject->footjob techniques</li>
+			<li>subject->building materials</li>
+			<li>subject->pregnancy prevention</li>
+			<li>subject->genital identification</li>
+			<li>subject->measuring insertions</li>			
+		  </rulesStrings>
+    </logRulesInitiator>
+  </InteractionDef>
+</Defs>

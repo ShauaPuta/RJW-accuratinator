@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>RJW Sexperience</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/SkillDef[defName="Sex"]</xpath>
+			<value>
+				<lessonInteraction MayRequire="Ludeon.RimWorld.Biotech">RJW_LessonSex</lessonInteraction>
+			</value>
+		</match>
+	</Operation>
+
+</Patch>
